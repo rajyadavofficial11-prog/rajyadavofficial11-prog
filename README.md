@@ -29,32 +29,6 @@ I am building hands-on experience by practicing security testing in authorized l
 - Wireshark
 - Kali Linux
 
-### Technical Knowledge
-- HTTP / HTTPS
-- TCP / UDP
-- DNS
-- Networking Fundamentals
-- Linux
-- Git & GitHub
-
----
-
-## 🔎 Vulnerabilities I Practice
-
-- HTML Injection
-- Cross-Site Scripting (XSS)
-- Cross-Site Request Forgery (CSRF)
-- CORS Misconfiguration
-- Clickjacking
-- Path Traversal
-- Parameter Tampering
-- Cleartext Submission
-- Sensitive Data Exposure
-- SQL Injection
-- IDOR
-
----
-
 ## 📂 Featured Portfolio
 
 ### 🛡️ Vulnerability Assessment Portfolio
@@ -106,8 +80,8 @@ and continuously develop my practical skills in **Web Application Security and V
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **Add your LinkedIn profile here**
-- 📧 Email: **Add your professional email here**
+- 💼 LinkedIn: **(https://www.linkedin.com/in/raj-yadav-6a5b6b413/)**
+- 📧 Email: **rajyadav19840@gmail.com**
 - 🛡️ GitHub: **rajyadavofficial11-prog**
 
 ---
