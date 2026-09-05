@@ -80,7 +80,7 @@ and continuously develop my practical skills in **Web Application Security and V
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **(https://www.linkedin.com/in/raj-yadav-6a5b6b413/)**
+- 💼 LinkedIn: **https://www.linkedin.com/in/raj-yadav-6a5b6b413/**
 - 📧 Email: **rajyadav19840@gmail.com**
 - 🛡️ GitHub: **rajyadavofficial11-prog**
 
